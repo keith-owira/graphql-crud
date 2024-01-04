@@ -18,3 +18,5 @@ Install dependencies:
 npm install
 
 Your good to go.
+
+The index file contains the gqarphql server and the resolvers impleented for data retreival
